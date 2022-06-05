@@ -5,5 +5,7 @@ public class Main {
         Dog dog = new Dog("Yorkie", 8, 20, 2, 4, 1, 20, "Long silky");
 
         dog.eat();
+
+        System.out.println("I have made some changes in my code");
     }
 }
