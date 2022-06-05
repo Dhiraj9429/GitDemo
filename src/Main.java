@@ -7,5 +7,6 @@ public class Main {
         dog.eat();
 
         System.out.println("I have made some changes in my code");
+        System.out.println("I have made another changes in my code");
     }
 }
